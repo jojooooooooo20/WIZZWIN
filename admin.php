@@ -4,7 +4,6 @@
     include 'header.inc.php';
     include 'menuadmin.php';
 ?>
-
 <div class="container">
 <?php
     if(isset($_SESSION['message'])) {
